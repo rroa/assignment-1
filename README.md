@@ -22,3 +22,4 @@ The goal of this assignment is for you to get familiarized with a formal develop
 ## Notes
 * You are free to follow the design techniques you see fit. Those who take into account ease of use, read and maintain will earn extra credit.
 * Proper naming of variables, classes and functions will result in extra credit.
+* The Boiler Plate project is referenced as a Git submodule, read more about how to retrieve the code by reading the [official](https://git-scm.com/book/en/v2/Git-Tools-Submodules) documentation.
