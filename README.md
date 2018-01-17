@@ -16,8 +16,8 @@ The goal of this assignment is for you to get familiarized with a formal develop
   * [ ] Calculate the angular distance from angle A to angle B (in both degrees and radians)
   * [ ] Determine if an int is a "power of two"
   * [ ] Interpolate a float (or an int) between a start value and an end value, at a fraction specified from start (0.0) to end (1.0).
-* [ ] Create a static class, call it `Color`. Add the necessary properties to manage colors with it, taking into account that we will be using a four channel representation in the RGBA form.
-* [ ] Create a static class that uses the previous `Color` class to represent 5 colors of your choice. Each color should have a name, and you should be able to change the screen background back using each color structure. Be creative with the class definition and its implementation.
+* [ ] Create a class, call it `Color`. Add the necessary properties to manage colors with it, taking into account that we will be using a four channel representation in the RGBA form.
+* [ ] Create a static class, call it `Colors`, that uses the previous `Color` class to represent 5 colors of your choice. Each color should have a name, and you should be able to change the screen background back using each color structure. Be creative with the class definition and its implementation.
 
 ## Notes
 * You are free to follow the design techniques you see fit. Those who take into account ease of use, read and maintain will earn extra credit.
